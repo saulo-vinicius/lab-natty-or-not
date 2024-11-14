@@ -1,20 +1,18 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Podcast: Lúpulo no Brasil: Perspectivas e Realidades em 20 minutos🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Este podcast de 20 minutos explora a cadeia produtiva do lúpulo no Brasil, desde o histórico da cultura, passando pelas diferentes cultivares e principais desafios, até um plano de ação futuro para a produção nacional.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+- IA Generativa **[NotebookLM](https://www.notebooklm.google.com/)** para resumir o livro e montagem do podcast com voz sintética;
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+"NotebookLM" foi utilizado para desenvolver o roteiro com base no documento (livro: Lúpulo no Brasil: Perspectivas e Realidades) e aprimorar a narrativa do podcast. "NotebookLM" ajudou a criar um podcast envolvente com voz sintética.
 
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+O episódio apresenta informações sobre o cultivo do lúpulo, a estruturação da cadeia produtiva, os custos de implantação e produção, e as perspectivas de expansão da cultura, com o objetivo de estimular o cultivo e a comercialização do lúpulo nacional. 
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://1drv.ms/u/s!Au0iUSNKaZe-grZyJkblpUXNYhoMwA?e=K5Lw6e)
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo através de um contéudo de texto, abrindo novos caminhos para a produção de mídia digital.
